@@ -1,0 +1,45 @@
+Linguagem de programação:
+"Linguagem de programação é uma linguagem escrita 
+e formal que especifica um conjunto de
+instruções e regras usadas para gerar programas 
+(software). Um em um computador, dispositivo móvel
+ou em qualquer equipamento que 
+permita sua execução"
+---
+Linguagem de alto, baixo nível e Compiladas ou interpretadas:
+-Alto nível
+Essas são aquelas cuja sintaxe se aproxima
+mais da nossa linguagem e se distanciam mais 
+da linguagem de máquina.
+
+-Baixo nível
+"É aquela que se aproxima mais de uma 
+línguagem de máquina. Essas são as que você
+precisa ter o conhecimento direto da 
+arquitetura do computador para 
+fazer alguma coisa."
+
+-Compiladas
+"É uma linguagem de programação em que o código
+fonte, é executado diretamente pelo sistema 
+operacional ou pelo processador após ser 
+traduzido por meio de um processo 
+chamado compilação"
+
+-Interpretadas
+"É uma linguagem de programação em que o código
+fonte é executado por um programa de
+computador chamado interpretador, que em
+seguida é executado pelo sistema operacional 
+ou processador"
+---
+-Portugol
+"Portugol é uma pseudolinguagem que permite ao 
+leitor desenvolver algoritmos estruturados
+em porguês de forma simples
+e intuitiva, independentemente de linguagem 
+de programação."
+
+"É uma pseudolinguagem que permite ao programador
+pensar no problema em si e nào no equipamento
+que irá executar o algoritmo."
