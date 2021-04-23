@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="P&#227;o"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-04-23 12:56:50 PM"/>
+        <attribute name="created" value="UMOjbztSRVhBWVQtVE9XRVI7MjAyMS0wNC0yMzsxMjo0Mzo1OCBQTTsyNjIy"/>
+        <attribute name="edited" value="UMOjbztSRVhBWVQtVE9XRVI7MjAyMS0wNC0yMzsxMjo1Njo1MCBQTTsxOzI3MjY="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="cliente" type="String" array="False" size=""/>
+            <declare name="cartao" type="Boolean" array="False" size=""/>
+            <declare name="numero" type="String" array="False" size=""/>
+            <input variable="cliente"/>
+            <input variable="cartao"/>
+            <if expression="cartao">
+                <then>
+                    <input variable="numero"/>
+                    <output expression="&quot;Seu cart&#227;o foi clonado com sucesso&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Infelizmente nosso estabelecimento, aceita somente compras via cart&#227;o&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,39 @@
+Expressões aritméticas:
+"São expressões que utilizam operadores 
+aritméticos e funções aritméticas
+envolvendo constantes e variáveis."
+---
+Operadores aritméticos:
+Soma = +
+Subtração = -
+Multiplicação = *
+Divisão = /
+Potenciação = ^
+Porcentagem = %
+---
+Expressões Literais:
+"São expressões com constantes e/ou
+variáveis que tem como resultado
+valores literais."
+---
+Operadores relacionais:
+"São expressões compostas por outras
+expressões ou variáveis númericas
+com operadores relacionais.
+As expressões relacionais retornam
+valores lógicos (Verdadeiro /Falso)"
+--- 
+Expressões operadores relacionais:
+> | Maior que
+>= | Maior ou igual
+< | Menor que
+<= | Menor ou igual
+== | Igualdade
+!= | Diferente de
+---
+Tomadas de decisão:
+"Quando escrevemos programas, 
+geralmente ocorre a necessidade de 
+decidir o que fazer dependendo de 
+alguma condição encontrada 
+durante a execução."
