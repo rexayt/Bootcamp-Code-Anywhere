@@ -1,0 +1,23 @@
+INÍCIO DO JOGO
+Penguin azul pequeno entra no iceberg
+Penguin azul grande entra no iceberg
+Atravessa
+Penguin azul grande sai do iceberg
+Atravessa
+Penguin verde pequeno entra no iceberg
+Atravessa
+Penguin azul pequeno sai do iceberg
+Atravessa
+Penguin verde grande entra no iceberg
+Atravessa
+Penguin verde grande sai do iceberg
+Atravessa
+Penguin pequeno vermelho entra no iceberg
+Atravessa
+Penguin pequeno verde sai do iceberg
+Atravessa
+Penguin grande vermelho entra no iceberg
+Atravessa
+Penguin grande vermelho sai do iceberg
+Penguin pequeno vermelho sai do iceberg
+FIM DO JOGO
