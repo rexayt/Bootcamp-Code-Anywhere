@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="P&#227;o"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-04-23 02:30:09 PM"/>
+        <attribute name="created" value="UMOjbztSRVhBWVQtVE9XRVI7MjAyMS0wNC0yMzswMjoyMzoxNSBQTTsyNjEy"/>
+        <attribute name="edited" value="UMOjbztSRVhBWVQtVE9XRVI7MjAyMS0wNC0yMzswMjozMDowOSBQTTsxOzI3MjE="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="resultado, tabuada, limite" type="Integer" array="False" size=""/>
+            <assign variable="resultado" expression="9"/>
+            <assign variable="tabuada" expression="1"/>
+            <assign variable="limite" expression="9*10"/>
+            <while expression="resultado&lt;=limite">
+                <output expression="&quot;9 x &quot; &amp; tabuada &amp; &quot; = &quot; &amp; resultado" newline="True"/>
+                <assign variable="resultado" expression="resultado + 9"/>
+                <assign variable="tabuada" expression="tabuada + 1"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
