@@ -1,0 +1,7 @@
+-Matriz
+"Uma matriz é uma coleção de variáveis
+do mesmo tipo, acessíveis com um único nome e
+armazenados continuamente na memória."
+
+-Vetores
+"Matrizes de uma dimensão."
